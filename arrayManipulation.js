@@ -16,4 +16,4 @@ const strings = ["hello", "world", "test", "example"];
 const numbers = [1, 2, 3, 4];
 const formattedStrings = formatArrayStrings(strings, numbers);
 
-console.log(formattedStrings); // Output: ["hello", "WORLD", "test", "EXAMPLE"]
+console.log(formattedStrings); 
